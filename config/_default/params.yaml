@@ -15,30 +15,29 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Political scientist at Arkansas State University'
 twitter: '@camwimpy'
 
 i_am_a_sponsor: true
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: (888 888 88 88)870) 972-2147
+email: cwimpy@astate.edu
+phone: (870) 972-2147
 address:
-  street: 450 Serra Mall
+  street: PO Box 1850
   city: State
-  region: CA
-  postcode: '94305'
+  region: AR
+  postcode: '72467'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '35.841757'
+  longitude: '-90.677370'
+directions: My office is on the 3rd floor of the HSS building.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'By appointment only during the shutdown.'
+appointment_url: 'https://calendly.com/cwimpy/meeting-with-dr-wimpy'
 contact_links:
   - icon: twitter
     icon_pack: fab
