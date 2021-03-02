@@ -41,7 +41,7 @@ appointment_url: 'https://calendly.com/cwimpy/meeting-with-dr-wimpy'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow me on Twitter
     link: 'https://twitter.com/camwimpy'
 
 # Site header
