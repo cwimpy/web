@@ -16,12 +16,12 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: '@camwimpy'
 
 # Contact (edit or remove options as required)
 
 email: test@example.org
-phone: 888 888 88 88
+phone: (888 888 88 88)870) 972-2147
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/camwimpy'
   - icon: skype
     icon_pack: fab
     name: Skype Me
