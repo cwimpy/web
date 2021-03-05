@@ -5,13 +5,13 @@ name = "cam"
 light = false
 
 # Primary
-primary = "#1565c0"
+primary = "#4caf50"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_primary = "#4caf50"
+menu_text = "#fff"
+menu_text_active = "#1b5e20"
+menu_title = "#fff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
@@ -20,3 +20,7 @@ home_section_even = "rgb(247, 247, 247)"
 [dark]
   link = "#bbdefb"
   link_hover = "#bbdefb"
+  
+  
+  
+  
