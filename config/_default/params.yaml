@@ -118,7 +118,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'camwimpy'
     show_count: true
   commento:
     url: ''
