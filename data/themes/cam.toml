@@ -2,7 +2,7 @@
 name = "cam"
 
 # Is theme light or dark?
-light = false
+dark = true
 
 # Primary
 primary = "#4caf50"
