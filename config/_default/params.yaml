@@ -110,7 +110,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: 1
+  provider: '1'
   commentable:
     post: true
     book: true
