@@ -5,7 +5,7 @@
 
 title: Cameron Wimpy # Website name
 baseurl: '' # Website URL
-copyright: '© {year}' # Footer text, e.g. '© {year} Me'
+copyright: '© Cameron Wimpy 2010–{year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
