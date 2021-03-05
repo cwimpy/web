@@ -11,7 +11,7 @@ role: Assistant Professor of Political Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Arkansas State University
-  url: https://www.stanford.edu/
+  url: https://www.astate.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include political methodology, political violence, and public policy.

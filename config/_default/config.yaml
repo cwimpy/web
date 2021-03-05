@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Cameron Wimpy # Website name
-baseurl: '' # Website URL
+baseurl: 'https://cwimpy.com/' # Website URL
 copyright: '© Cameron Wimpy 2010–{year}' # Footer text, e.g. '© {year} Me'
 
 ############################
