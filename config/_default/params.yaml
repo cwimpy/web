@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Political scientist at Arkansas State University'
+description: 'Political Scientist at Arkansas State University'
 twitter: '@camwimpy'
 
 i_am_a_sponsor: true
@@ -36,7 +36,7 @@ coordinates:
   longitude: '-90.677370'
 directions: My office is on the 3rd floor of the HSS building.
 office_hours:
-  - 'By appointment only during the shutdown.'
+  - 'By Zoom appointment only during the Covid-19 Pandemic.'
 appointment_url: 'https://calendly.com/cwimpy/meeting-with-dr-wimpy'
 contact_links:
   - icon: twitter
@@ -66,7 +66,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
