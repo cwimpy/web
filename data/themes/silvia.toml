@@ -7,12 +7,12 @@ name = "My Theme: Silvia"
 light = true
 
 # Primary
-primary = "#0a6324" # changes colors of links
+primary = "#007200" # changes colors of links
 
 # Menu
-menu_primary = "#1f1f1f"
+menu_primary = "#007200"
 menu_text = "rgba(255,255,255,0.6)" # "#34495e" # main text in menu
-menu_text_active = "#0a6324" # social media icons
+menu_text_active = "#1f5c1d" # social media icons
 menu_title = "#fff" # text in the menu bar
 
 # Home sections
