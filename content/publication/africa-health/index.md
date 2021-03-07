@@ -9,7 +9,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2018-08-01T00:00:00Z"
-doi: "https://www.liebertpub.com/doi/10.1089/heq.2018.0029"
+doi: "http://press.georgetown.edu/book/georgetown/comparative-public-management"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-01"
