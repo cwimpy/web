@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/heq.2018.0029.pdf
+url_pdf: uploads/heq.2018.0029.pdf
 url_code: 
 url_dataset:
 url_poster: ''
