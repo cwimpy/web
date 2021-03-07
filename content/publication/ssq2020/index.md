@@ -35,7 +35,7 @@ tags:
 - Political Science
 - Residual Vote
 - Elections
-featured: true
+featured: false
 
 # links:
 # - name: ""
