@@ -4,7 +4,11 @@ authors:
 - admin
 - Marlette Jackson
 - Kenneth J. Meier
-date: "2018-08-01"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2018-08-01T00:00:00Z"
 doi: "https://www.liebertpub.com/doi/10.1089/heq.2018.0029"
 
 # Schedule page publish date (NOT publication's date).
@@ -65,3 +69,10 @@ projects: []
 slides: ""
 ---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
