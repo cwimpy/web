@@ -2,7 +2,7 @@
 title: "The 2009 Presidential and Parliamentary elections in Mozambique"
 authors:
 - admin
-date: "2011-06-01"
+date: "2011-06-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.electstud.2011.02.004"
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: files/206861997.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
