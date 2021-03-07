@@ -32,7 +32,7 @@ tags:
 - Public Health
 - Public Policy
 - Africa
-featured: true
+featured: false
 
 # links:
 # - name: ""

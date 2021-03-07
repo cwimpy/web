@@ -36,7 +36,7 @@ summary: In this article, we argue that the major governance failures are politi
 tags:
 - Politcal Science 
 - Public Policy
-featured: true
+featured: false
 
 # links:
 # - name: ""

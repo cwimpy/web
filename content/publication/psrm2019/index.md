@@ -33,7 +33,7 @@ tags:
 - Politcal Science 
 - Political Methodology
 - Spatial Econometrics
-featured: true
+featured: false
 
 # links:
 # - name: ""

@@ -30,7 +30,7 @@ summary: Smokeless tobacco (SLT) use continues to be a significant public health
 tags:
 - Public Health
 - Tobacco
-featured: true
+featured: false
 
 # links:
 # - name: ""

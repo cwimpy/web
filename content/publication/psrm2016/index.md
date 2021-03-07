@@ -32,7 +32,7 @@ tags:
 - Political Methodology
 - Spatial Econometrics
 - Africa
-featured: true
+featured: false
 
 # links:
 # - name: ""
