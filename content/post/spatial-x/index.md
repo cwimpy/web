@@ -1,7 +1,8 @@
 ---
 title: New publication on spatial-x models
 author: Cameron Wimpy
-date: '2021-03-06'
+date: "2021-03-06T00:00:00Z"
+lastmod: "2021-03-06T00:00:00Z"
 categories:
   - research
 tags:
