@@ -6,7 +6,13 @@ authors:
 - John Polga-Hecimovich
 - Miyeon Song
 - admin
-date: "2019"
+author_notes:
+- "First author"
+- "Second author"
+- "Second author"
+- "Second author"
+- "Second author"
+date: "2019-09-18T00:00:00Z"
 doi: "https://doi.org/10.1177/0095399719874759"
 
 # Schedule page publish date (NOT publication's date).

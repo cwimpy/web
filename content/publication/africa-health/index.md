@@ -9,7 +9,6 @@ author_notes:
 - "Second author"
 - "Second author"
 date: "2018-08-01T00:00:00Z"
-doi: "http://press.georgetown.edu/book/georgetown/comparative-public-management"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-01"
