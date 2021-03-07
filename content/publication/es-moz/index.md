@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/206861997.pdf
+url_pdf: uploads/206861997.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -2,7 +2,7 @@
 title: "Book Review: Oman: Politics and Society in the Qaboos State – By Marc Valeri"
 authors:
 - admin
-date: "2019-10-22T00:00:00Z"
+date: "2010-10-22T00:00:00Z"
 doi: "https://doi.org/10.1016/j.electstud.2011.02.004"
 
 # Schedule page publish date (NOT publication's date).
