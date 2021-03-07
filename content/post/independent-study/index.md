@@ -1,7 +1,8 @@
 ---
 title: Doing an independent study with Dr. Wimpy
 author: Cameron Wimpy
-date: '2020-03-18'
+date: "2021-03-18T00:00:00Z"
+lastmod: "2021-03-06T00:00:00Z"
 categories:
   - teaching
 tags:

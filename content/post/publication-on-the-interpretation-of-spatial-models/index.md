@@ -1,7 +1,8 @@
 ---
 title: New publication on the interpretation of spatial models
 author: Cameron Wimpy
-date: '2019-06-18'
+date: "2019-06-18T00:00:00Z"
+lastmod: "2021-03-06T00:00:00Z"
 categories:
   - research
 tags:
