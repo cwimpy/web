@@ -102,4 +102,4 @@ It is crucial to remember that the potential for embarrassment with video is som
 
 Virtual meetings are increasingly becoming part of working in a professional environment. The sooner that you become proficient in them, the better your career and professional life will be. No one is going to be amazed when you are able to make things work and participate, but if you are unable to properly join the meeting then it will almost certainly diminish your ability to make an impact---whether that means getting a job or participating in class.
 
-[Download](http://cwimpy.com/files/Virtual-Meetings.pdf) a PDF copy of this post.
+[Download](http://cwimpy.com/uploads/Virtual-Meetings.pdf) a PDF copy of this post.

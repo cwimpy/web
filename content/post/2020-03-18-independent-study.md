@@ -54,4 +54,4 @@ The following are a list of procedures that I require before agreeing to an inde
 
 Independent studies can be rewarding for both students and professors. They can also be lots of work, and before we both commit to doing the work we need to have a strong understanding for what it will entail. For my part, I need to know that the independent study will be worth taking my time from something else important to me, and I want to ensure that it is something to which you are committed. If we can align on these goals, then I am always happy to further the learning experience for committed students. 
 
-[Download](http://cwimpy.com/files/Independent-Study.pdf) a PDF copy of this post.
+[Download](http://cwimpy.com/uploads/Independent-Study.pdf) a PDF copy of this post.
