@@ -3,7 +3,10 @@ title: "Defining Opposition: An Interview with Afonso Dhlakama of RENAMO"
 authors:
 - Irvin D. Reid
 - admin
-date: "2013"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2013-01-01T00:00:00Z"
 doi: "https://escholarship.org/uc/item/4dx5h93f"
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Dhlakama Interview.pdf
+url_pdf: uploads/Dhlakama Interview.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

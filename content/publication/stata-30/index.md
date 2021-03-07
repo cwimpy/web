@@ -3,7 +3,10 @@ title: "Stata and Political Science"
 authors:
 - Guy D. Whitten
 - admin
-date: "2015-06-01"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

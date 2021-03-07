@@ -5,7 +5,11 @@ authors:
 - Flávio D. S. Souza
 - Jenifer Whitten‐Woodring
 - admin
-date: "2017-08-30"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2017-08-30T00:00:00Z"
 doi: "https://doi.org/10.1111/ssqu.12443"
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/ssqu.12443.pdfœ
+url_pdf: uploads/ssqu.12443.pdfœ
 url_code: ''
 url_dataset: ''
 url_poster: ''

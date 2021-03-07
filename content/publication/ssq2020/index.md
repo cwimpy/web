@@ -5,7 +5,12 @@ authors:
 - R. Michael Alvarez
 - Stephen Pettigrew
 - admin
-date: "2020-03-01"
+author_notes:
+- "Lead author"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2020-03-01T00:00:00Z"
 doi: "https://doi.org/10.1111/ssqu.12757"
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/ssq2020.pdf
+url_pdf: uploads/ssq2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

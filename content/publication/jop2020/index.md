@@ -5,9 +5,9 @@ authors:
 - Guy D. Whitten
 - Laron K. Williams
 author_notes:
-- "First author"
-- "Second author"
-- "Second author"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2021-04-01T00:00:00Z"
 doi: "10.1086/710089"
 

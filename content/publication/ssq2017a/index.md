@@ -1,9 +1,12 @@
 ---
 title: "What Is and What May Never Be: Economic Voting in Developing Democracies"
 authors:
-- Guy D. Whitten
 - admin
-date: "2017-08-30"
+- Guy D. Whitten
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2017-08-30T00:00:00Z"
 doi: "https://doi.org/10.1111/ssqu.12444"
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/ssqu.12444.pdf
+url_pdf: uploads/ssqu.12444.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
