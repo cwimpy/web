@@ -5,9 +5,9 @@ authors:
 - Marlette Jackson
 - Kenneth J. Meier
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "Second author"
+- "Second author"
 date: "2018-08-01T00:00:00Z"
 doi: "http://press.georgetown.edu/book/georgetown/comparative-public-management"
 
