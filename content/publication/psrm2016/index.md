@@ -3,7 +3,10 @@ title: "Does Information Lead to Emulation? Spatial Dependence in Anti-Governmen
 authors:
 - Blake E. Garcia
 - admin
-date: "2016-01-01"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2016-01-01T00:00:00Z"
 doi: "https://doi.org/10.1017/psrm.2014.18"
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/interpretation_the_final_spatial_frontier.pdf
+url_pdf: uploads/interpretation_the_final_spatial_frontier.pdf
 url_code: https://doi.org/10.7910/DVN/CTRV5Z
 url_dataset: https://doi.org/10.7910/DVN/CTRV5Z
 url_poster: ''

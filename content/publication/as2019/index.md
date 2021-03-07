@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/0095399719874759.pdf
+url_pdf: uploads/0095399719874759.pdf
 url_code: 
 url_dataset: 
 url_poster: ''

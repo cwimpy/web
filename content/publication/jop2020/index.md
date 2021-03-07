@@ -4,7 +4,11 @@ authors:
 - admin
 - Guy D. Whitten
 - Laron K. Williams
-date: "2021-04-01"
+author_notes:
+- "First author"
+- "Second author"
+- "Second author"
+date: "2021-04-01T00:00:00Z"
 doi: "10.1086/710089"
 
 # Schedule page publish date (NOT publication's date).
@@ -14,7 +18,7 @@ publishDate: "2020-04-01"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Politics*"
@@ -34,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/jop-preprint.pdf
+url_pdf: uploads/jop-preprint.pdf
 url_code: https://doi.org/10.1086/710089
 url_dataset: https://doi.org/10.7910/DVN/RFYOH6
 url_poster: ''
