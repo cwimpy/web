@@ -35,7 +35,9 @@ tags:
 - Spatial Econometrics
 featured: false
 
-# links:
+links: 
+- name: Online Appendix
+  url: uploads/X Marks the Spot--SM.pdf
 # - name: ""
 #   url: ""
 url_pdf: uploads/710089.pdf
