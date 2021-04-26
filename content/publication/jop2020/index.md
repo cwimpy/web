@@ -41,13 +41,10 @@ featured: false
 url_pdf: uploads/710089.pdf
 url_code: https://doi.org/10.7910/DVN/RFYOH6
 url_dataset: https://doi.org/10.7910/DVN/RFYOH6
-[[url_custom]]
-name = "Supplemental"
-url = "https://www.journals.uchicago.edu/doi/suppl/10.1086/710089"
+url_source: "https://www.journals.uchicago.edu/doi/suppl/10.1086/710089"
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
 url_video: ''
 
 # Featured image
