@@ -39,7 +39,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: uploads/710089.pdf
-url_code: https://doi.org/10.1086/710089
+url_code: https://doi.org/10.7910/DVN/RFYOH6
 url_dataset: https://doi.org/10.7910/DVN/RFYOH6
 url_poster: ''
 url_project: ''
