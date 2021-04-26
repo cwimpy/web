@@ -38,8 +38,8 @@ featured: false
 links: 
 - name: Online Appendix PDF
   url: uploads/X Marks the Spot--SM.pdf
-  - name: Online Appendix 
-    url: https://www.journals.uchicago.edu/doi/suppl/10.1086/710089
+- name: Online Appendix 
+  url: https://www.journals.uchicago.edu/doi/suppl/10.1086/710089
 # - name: ""
 #   url: ""
 url_pdf: uploads/710089.pdf
