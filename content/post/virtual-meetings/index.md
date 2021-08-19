@@ -65,7 +65,7 @@ The following points are a list of best practices to follow while in or planning
 - **Do not talk over others.** Just be nice. You can always be the kinder colleague and take it upon yourself to ensure that everyone is heard without interruption. If you talk over someone or interrupt, treat it as if you are there in person, kindly apologize, and give them the floor. Listening is almost always better than talking unless it is specifically your turn to talk/present. 
 
 - **Use the chat function sparingly.** This is another potential avenue for embarrassment as individuals will often intend to message one person, and instead message the entire group. Making a negative comment about a colleague or superior that everyone can see has any number of social and/or professional consequences. The best use of the chat function is to greet a new person in a large meeting and/or letting the organizer know you are working on some technical issue that you plan to resolve soon. You can also send files and links via some applications, but these will disappear when the meeting ends so you should ask if that is the best approach for sharing.
-\newpage
+
 - **Do not use an audio-only meeting when video is better or vice versa.** Sometimes a quick phone call will suffice, but typically a more formal meeting with video is the best replacement for when it is difficult to meet in person. However, some meetings can be avoided entirely, and that is something I suggest keeping in the back of your mind.
 
 - **Do have an agenda (even if informal and in your own notes) if you are running the meeting.** If it is a formal meeting and there are a myriad of issues to cover, send a formal agenda to the group in advance of the meeting.
