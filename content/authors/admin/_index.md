@@ -45,7 +45,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: media/cv-wimpy.pdf
+  link: uploads/cv-wimpy.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'  
