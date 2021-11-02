@@ -21,7 +21,6 @@ interests:
 - Data Science
 - Political Economy
 - Political Methodology
-- Political Violence
 - Public Policy
 - Spatial Econometrics
 
