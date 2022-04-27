@@ -37,7 +37,7 @@ coordinates:
 directions: My office is on the 3rd floor of the HSS building.
 office_hours:
   - 'By Zoom appointment only.'
-appointment_url: 'fantastical.app/cwimpy-yBqk/schedule'
+appointment_url: 'https://fantastical.app/cwimpy-yBqk/schedule'
 contact_links:
   - icon: twitter
     icon_pack: fab
