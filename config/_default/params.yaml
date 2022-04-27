@@ -23,9 +23,9 @@ i_am_a_sponsor: true
 # Contact (edit or remove options as required)
 
 email: cwimpy@astate.edu
-phone: (870) 972-2147
+phone: (870) 972-3048
 address:
-  street: PO Box 1850
+  street: PO Box 1750
   city: State
   region: AR
   postcode: '72467'
@@ -36,8 +36,8 @@ coordinates:
   longitude: '-90.677370'
 directions: My office is on the 3rd floor of the HSS building.
 office_hours:
-  - 'By Zoom appointment only during the Covid-19 Pandemic.'
-appointment_url: 'https://calendly.com/cwimpy/meeting-with-dr-wimpy'
+  - 'By Zoom appointment only.'
+appointment_url: 'fantastical.app/cwimpy-yBqk/schedule'
 contact_links:
   - icon: twitter
     icon_pack: fab

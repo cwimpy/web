@@ -6,7 +6,7 @@ title: Cameron Wimpy
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Political Science
+role: Assistant Professor and Interim Chair of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.astate.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political methodology, political violence, and public policy.
+bio: My research interests include political methodology, political economy, political violence, and public policy.
 
 # Interests to show in About widget
 interests:
@@ -85,6 +85,6 @@ highlight_name: false
 ---
 
 
-I am a political scientist at Arkansas State University with interests in political economy, political methodology, and political violence. I am an affiliate faculty with the Center for No Boundary Thinking at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+I am interim department chair and assistant professor of political science at Arkansas State University with interests in political economy, political methodology, political violence, and public policy. I am an affiliate faculty with the Center for No Boundary Thinking at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
