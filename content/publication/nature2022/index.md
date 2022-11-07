@@ -1,5 +1,5 @@
 ---
-title: "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
+title: "American Election Results at the Precinct Level"
 authors:
 - Samuel Baltz
 - Alexander Agadjanian
@@ -46,7 +46,7 @@ links:
 # - name: ""
 #   url: ""
 url_pdf: uploads/710089.pdf
-url_code: https://doi.org/10.1038/s41597-022-01745-0
+url_code: https://github.com/MEDSL/replication-scripts
 url_dataset: https://doi.org/10.7910/DVN/NT66Z3
 url_source: ''
 url_poster: ''
