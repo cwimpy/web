@@ -6,7 +6,7 @@ title: Cameron Wimpy
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor and Interim Chair of Political Science
+role: Associate Professor and Depoartment Chair of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,7 +81,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 
