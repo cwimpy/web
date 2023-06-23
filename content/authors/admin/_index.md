@@ -6,7 +6,7 @@ title: Cameron Wimpy
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor and Depoartment Chair of Political Science
+role: Associate Professor and Department Chair of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,12 +60,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2049-5229
-- icon: publons
+- icon: clarivate
   icon_pack: ai
-  link: https://publons.com/researcher/AAL-4656-2020/
-- icon: researcherid
-  icon_pack: ai
-  link: https://publons.com/researcher/AAL-4656-2020/
+  link: https://www.webofscience.com/wos/author/record/1987627
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/camwimpy
