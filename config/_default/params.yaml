@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/cwimpy/website'
+    url: 'https://github.com/cwimpy/web'
     content_dir: content
     branch: main
   avatar:
