@@ -7,3 +7,5 @@ public/
 jsconfig.json
 node_modules/
 .Rproj.user
+
+**/.DS_Store
