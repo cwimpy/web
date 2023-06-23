@@ -16,8 +16,8 @@ publishDate: "2021-11-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Korean Journal of Policy Studies*"
-publication_short: "KJPS"
+publication: "*Journal of Policy Studies*"
+publication_short: "JPS"
 
 abstract: Using a combination of unique datasets, I turn the recent theories on political failure into testable propositions for how these processes unfold in the African context. 
 
