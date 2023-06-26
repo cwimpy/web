@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Administration and Society*"
-publication_short: "Administration and Society"
+publication_short: "*Administration and Society*"
 
 abstract: Bureaucratic reforms worldwide seek to improve the quality of governance. In this article, we argue that the major governance failures are political, not bureaucratic, and the first step to better governance is to recognize the underlying political causes. Using illustrations from throughout the world, we contend that political institutions fail to provide clear policy goals, rarely allocate adequate resources to deal with the scope of the problems, and do not allow the bureaucracy sufficient autonomy in implementation. Rational bureaucratic responses to these problems, in turn, create additional governance problems that could have been avoided if political institutions perform their primary functions.
 

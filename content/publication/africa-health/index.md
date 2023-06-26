@@ -8,7 +8,7 @@ author_notes:
 - "First author"
 - "Second author"
 - "Second author"
-date: "2018-08-01T00:00:00Z"
+date: "2017-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-01"
