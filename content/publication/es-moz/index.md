@@ -16,7 +16,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Electoral Studies*"
-publication_short: "Electoral Studies"
+publication_short: "*Electoral Studies*"
 
 abstract: Armando Guebuza won reelection by an overwhelming margin. FRELIMO gained further control of the parliament.  RENAMO had only a small impact on this election relative to the previous three. A new party, MDM, was able to win a marginal percentage of the votes. Mozambique is close to one-party rule.
 

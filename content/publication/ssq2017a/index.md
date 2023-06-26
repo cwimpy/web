@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Social Science Quarterly*"
-publication_short: "*SSQ*"
+publication_short: "**Social Science Quarterly*"
 
 abstract: Objective. We propose and test a theory that media freedom determines the extent of economic voting in developing democracies. Methods. Building on extant work that suggests economic voting takes place in developing democracies much like it does in established democracies (Lewis‐Beck and Stegmaier, 2008), we test our theory using a new collection of aggregate data from elections in 22 developing democracies in Africa. Results. Media freedom rather than political freedom may be a bigger determinant of economic voting in developing democracies. Moreover, the threshold of political development needed for economic voting is lower than previously suggested by the literature. Conclusion. Economic voting is alive and well in developing democracies—even those with relatively low levels of economic and political development.
 

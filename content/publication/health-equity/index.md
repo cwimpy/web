@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Health Equity*"
-publication_short: "Health Equity"
+publication_short: "*Health Equity*"
 
 abstract: Introduction. Smokeless tobacco (SLT) use continues to be a significant public health challenge in the United States, particularly among young males in rural areas, where use remains disproportionately high. In support of the U.S. Food and Drug Administration's first nationwide SLT public education campaign, formative research was conducted to inform campaign strategy development and test creative concepts. Methods. Qualitative research methods were used to inform the strategic direction of the campaign, identify salient message themes, and refine creative concepts. Focus groups were conducted with 252 rural male youth ages 12–17 in seven states. Groups were organized by SLT status (i.e., at-risk for initiating vs. experimenting with SLT) and age group. Results. SLT use is culturally ingrained in rural communities, and rural youth are commonly exposed to SLT through close relationships. Among this group, "dipping" (SLT use) has strong cultural significance and is perceived as safe. Members of the target audience are receptive to straightforward facts delivered by authentic messengers about the potentially harmful consequences of SLT use, specifically those that leverage the progression of short-term consequences (e.g., white patches) to long-term health effects. Conclusions. This study addresses SLT literature gaps related to youth knowledge, attitudes, and beliefs by summarizing audience learnings from formative research that was used to develop the first national SLT public education campaign.
 

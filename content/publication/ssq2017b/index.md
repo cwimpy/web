@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Social Science Quarterly*"
-publication_short: "SSQ"
+publication_short: "*Social Science Quarterly*"
 
 abstract: Objective. In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions. Methods. We consider the effects of two critical mechanisms supporting both information access and flow across borders (i.e., media freedom and Internet usage) on workers’ rights across countries and over time using spatial models. Results. The findings overall indicate that there is a spatial component associated with the degree of workers’ rights in a given country. Further analysis reveals that this is due—at least in part—to the level of media freedom and information flow across borders. Conclusion. We find support for the theorized notion that the ability of workers to secure and exercise their rights to collective bargaining and freedom of association in the workplace depends In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions.
 
