@@ -16,7 +16,7 @@ publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Digest of Middle East Studies*"
-publication_short: "Digest of Middle East Studies"
+publication_short: "*Digest of Middle East Studies*"
 
 abstract: Book review.
 
