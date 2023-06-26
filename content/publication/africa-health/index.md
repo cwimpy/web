@@ -21,7 +21,6 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Comparative Public Management: Why National, Environmental, and Organizational Context Matter*"
-publication_short: "Comparative Public Management"
 
 abstract: We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable.
 

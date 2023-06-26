@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Policy Studies*"
-publication_short: "JPS"
+publication_short: "*Journal of Policy Studies*"
 
 abstract: Using a combination of unique datasets, I turn the recent theories on political failure into testable propositions for how these processes unfold in the African context. 
 
