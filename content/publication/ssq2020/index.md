@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Social Science Quarterly*"
-publication_short: "SSQ"
+publication_short: "*Social Science Quarterly*"
 
 abstract: Objective. We analyze the significant increase in the residual vote rate in the 2016 presidential election. The residual vote rate, which is the percentage of ballots cast in a presidential election that contain no vote for president, rose nationwide from 0.99 to 1.41 percent between 2012 and 2016. Method. We use election return data and public opinion data to examine why the residual vote rate increased in 2016. Results. The primary explanation for this rise is an increase in abstentions, which we argue results primarily from disaffected Republican voters rather than alienated Democratic voters. In addition, other factors related to election administration and electoral competition explain variation in the residual vote rates across states, particularly the use of mail/absentee ballots and the lack of competition at the top of the ticket in nonbattleground states. However, we note that the rise in the residual vote rate was not due to changes in voting technologies. Conclusion. Our research has implications for the use of the residual vote as a metric for studying election administration and voting technologies.
 
