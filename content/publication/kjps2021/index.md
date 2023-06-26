@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'uploads/30964-political-failure-and-bureaucratic-potential-in-africa.pdf'
 url_code: ''
 url_dataset:
 url_poster: ''
