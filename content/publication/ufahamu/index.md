@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Ufahamu: A Journal of African Studies*"
-publication_short: "Ufahamu: A Journal of African Studies"
+publication_short: "*Ufahamu: A Journal of African Studies*"
 
 abstract: Afonso Dhlakama has run in all four multiparty presidential elections in Mozambique. Before that, he led a guerrilla resistance known as RENAMO in a brutal civil war. He is a household name in Mozambique, and he represents over 30 years of opposition to the ruling party of FRELIMO. This transcript is from an interview conducted with Mr. Dhlakama immediately following the 2009 elections. Much of the focus on Mozambican democracy has been on the electoral and economic success of FRELIMO. Nevertheless, RENAMO has played an integral role as the opposition. The future of this role is uncertain, and Mr. Dhlakama and RENAMO are at their weakest point since the civil war ended in 1992.
 
