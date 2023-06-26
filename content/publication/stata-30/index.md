@@ -19,7 +19,7 @@ publishDate: "2015"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Thirty Years with Stata: A Retrospective*"
+publication: "in *Thirty Years with Stata: A Retrospective*"
 publication_short: ""
 
 abstract: Stata is today one of the two most popular statistics programs among political scientists. The rise of Stata to this status roughly parallels the rise of the Society for Political Methodology, which was started in 1983. When Stata was first launched, political science researchers were just starting to use models more complex than ordinary least-squares regression, and the need for a section of the American Political Science Association dedicated to statistical tools was not particularly obvious. Today, the Political Methodology section is the American Political Science Association’s second largest organized section.
