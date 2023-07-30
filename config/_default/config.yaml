@@ -36,7 +36,7 @@ paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, \.qmd$]
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
@@ -57,6 +57,9 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   _merge: deep
 related:
   threshold: 80

@@ -49,7 +49,7 @@ sections:
         country: United States
         country_code: US
       office_hours:
-        - By appoitnment only
+        - By appointment only
       contact_links:
         - icon: twitter
           icon_pack: fab
